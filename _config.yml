@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 王峰的博客 | BY Blog
+title: WangFeng Blog
+SEOTitle: 王峰的博客 | WangFeng Blog
 header-img: img/post-bg-desk.jpg
 email: wangfeng.shaw@gmail.com
 description: "keep calm and carry on."
-keyword: "BY, BY Blog, 王峰的博客, wangfeng, Python, Java"
+keyword: "WangFeng, WangFeng Blog, 王峰的博客, wangfeng, Python, Java"
 url: "http://wangfeng-shaw.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/wangfeng-shaw/wangfeng-shaw.github.io.git" # you code repository
@@ -18,7 +18,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-github_username:    wangfeng-shaw
+github_username: wangfeng-shaw
 
 
 # Build settings
