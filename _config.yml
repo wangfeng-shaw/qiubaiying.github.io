@@ -12,7 +12,7 @@ github_repo: "https://github.com/wangfeng-shaw/wangfeng-shaw.github.io.git" # yo
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Try my best to make me better!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-WF-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
